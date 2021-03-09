@@ -6,7 +6,10 @@ TEXT GENERATION
 Load the notebook on google colab and run it.
 
 GANs
-tensorflow is getting imported but codes are not running.
+tensorflow is getting imported but codes are not running. Base code is uploaded.
+
+AutoEncoder:
+tensorflow is getting imported but codes are not running. Base code is uploaded.
 
 DEEP DREAM
 After running the code, file becomes more than 25MB. Hence, loaded file without running it. load it on google colab and run it. Image file is loaded.
