@@ -12,4 +12,4 @@ DEEP DREAM
 After running the code, file becomes more than 25MB. Hence, loaded file without running it. load it on google colab and run it. Image file is loaded.
 
 TOPICS LEFT
-1) Transfer learning project 2
+1) Transfer learning project 2 ------> uploaded skeleton code. Solve the error in future.
